@@ -12,4 +12,4 @@ Why `text-center` when you could be the `text-main-char`?
 
 ```bash
 npm install rizzcss
-
+```
